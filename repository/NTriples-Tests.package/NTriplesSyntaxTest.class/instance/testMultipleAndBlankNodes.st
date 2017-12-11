@@ -1,0 +1,8 @@
+as yet unclassified
+testMultipleAndBlankNodes
+
+	startRule := #Triples.
+	
+	self shouldParse: '<http://one.example/subject1> <http://one.example/predicate1> <http://one.example/object1> . 
+_:subject1 <http://an.example/predicate1> "object1" .
+_:subject2 <http://an.example/predicate2> "object2" .'

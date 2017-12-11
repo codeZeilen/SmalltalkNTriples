@@ -1,0 +1,14 @@
+{
+	"category" : "NTriples-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NTriplesSyntaxTest",
+	"pools" : [
+		 ],
+	"super" : "OhmSyntaxTestCase",
+	"type" : "normal" }

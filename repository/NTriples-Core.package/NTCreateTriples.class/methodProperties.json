@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"Object:withAlt:" : "pre 12/11/2017 12:19",
+		"Predicate:withReference:" : "pre 12/11/2017 12:18",
+		"Subject:withAlt:" : "pre 12/11/2017 12:18",
+		"Triple:withSubject:withPredicate:withObject:withPrimitive:" : "pre 12/7/2017 22:59",
+		"Triples:withTriple:" : "pre 12/11/2017 12:16",
+		"blankNodeLabel:withPrimitive:withAlnum:withManyAlts:" : "pre 12/7/2017 23:09",
+		"languageTag:withPrimitive:withManyLetters:withMoreLetters:andEvenMore:" : "pre 12/11/2017 12:38",
+		"literal:withStringLiteral:withOptionalStringLiteralAddition:" : "pre 12/11/2017 12:39",
+		"reference:withPrimitive:withManySequences:withPrimitive:" : "pre 12/7/2017 23:06",
+		"stringLiteralAddition:withAlt:" : "pre 12/11/2017 12:35",
+		"stringLiteralAdditionReference:withLiteral:andReference:" : "pre 12/11/2017 12:37" } }

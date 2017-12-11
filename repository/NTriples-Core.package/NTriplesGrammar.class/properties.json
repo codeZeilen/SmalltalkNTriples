@@ -1,0 +1,14 @@
+{
+	"category" : "NTriples-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NTriplesGrammar",
+	"pools" : [
+		 ],
+	"super" : "OhmGrammarSmalltalkProxy",
+	"type" : "normal" }

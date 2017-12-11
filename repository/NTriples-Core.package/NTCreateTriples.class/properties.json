@@ -1,0 +1,14 @@
+{
+	"category" : "NTriples-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NTCreateTriples",
+	"pools" : [
+		 ],
+	"super" : "OhmSemanticAction",
+	"type" : "normal" }

@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "pre 12/11/2017 12:13",
+		"testAnnotatedLiterals" : "pre 12/7/2017 23:15",
+		"testBasicTriples" : "pre 12/7/2017 23:12",
+		"testEscapedTriples" : "pre 12/11/2017 12:10",
+		"testLiteralWIthEscapedQuotes" : "pre 12/11/2017 12:09",
+		"testLiteralWithApostrophes" : "pre 12/11/2017 12:10",
+		"testLiteralWithMultipleLines" : "pre 12/11/2017 12:09",
+		"testMultipleAndBlankNodes" : "pre 12/7/2017 23:13" } }
