@@ -1,0 +1,15 @@
+SmalltalkCISpec {
+  #loading : [
+    SCIMetacelloLoadSpec {
+      #baseline : 'NTriples',
+      #directory : 'repository',
+      #platforms : [ #squeak ]
+    }
+  ],
+  #testing : {
+    #categories : [ 'NTriples-*' ],
+    #coverage : {
+      #categories : [ 'NTriples-*' ]
+    }
+  }
+}
