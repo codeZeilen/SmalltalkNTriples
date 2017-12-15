@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfNTriples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfNTriples",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
