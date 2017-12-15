@@ -13,5 +13,6 @@ baseline: spec
 			spec
 				group: 'default' with: #('NTriples-Core');
 				group: 'core' with: #('NTriples-Core');
+				group: 'tests' with: #('core' 'NTriples-Tests');
 				group: 'libraries' with: #('Ohm')];
 				yourself
