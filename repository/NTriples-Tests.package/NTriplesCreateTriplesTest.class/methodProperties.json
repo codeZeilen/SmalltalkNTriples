@@ -3,6 +3,6 @@
 		 },
 	"instance" : {
 		"createTriplesFrom:" : "pre 12/11/2017 12:13",
-		"testSimpleTriple" : "pre 12/11/2017 12:43",
-		"testTripleWithLanguageTagLiteral" : "pre 12/11/2017 12:43",
-		"testTripleWithSchemaLiteral" : "pre 12/11/2017 12:43" } }
+		"testSimpleTriple" : "pre 12/16/2017 09:30",
+		"testTripleWithLanguageTagLiteral" : "pre 12/16/2017 09:31",
+		"testTripleWithSchemaLiteral" : "pre 12/16/2017 09:31" } }
