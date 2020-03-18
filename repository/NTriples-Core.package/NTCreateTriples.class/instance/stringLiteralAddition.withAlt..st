@@ -1,4 +1,4 @@
-as yet unclassified
+rules
 stringLiteralAddition: aNode withAlt: alt 
 
 	^ self value: alt

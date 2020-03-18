@@ -1,4 +1,4 @@
-as yet unclassified
+grammar
 serializedGrammar
 ^ 'NTriples <: BuiltInRules {
 

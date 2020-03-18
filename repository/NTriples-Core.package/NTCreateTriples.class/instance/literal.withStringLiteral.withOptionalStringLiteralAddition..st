@@ -1,4 +1,4 @@
-as yet unclassified
+rules
 literal: aNode withStringLiteral: stringLiteral withOptionalStringLiteralAddition: stringAddition 
 
 	| addition content result |

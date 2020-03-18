@@ -1,4 +1,4 @@
-as yet unclassified
+rules
 Predicate: aNode withReference: reference 
 
 	^ self value: reference

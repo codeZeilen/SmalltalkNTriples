@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testLiteralWIthEscapedQuotes
 
 	startRule := #Object.

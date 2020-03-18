@@ -1,4 +1,4 @@
-as yet unclassified
+utility
 createTriplesFrom: aString
 
 	| cst |

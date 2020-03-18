@@ -1,1 +1,1 @@
-(name 'NTriples-Core-pre.1' message 'Initial commit' id '27cc3bc7-65ca-8041-99a7-5fcb6646c133' date '11 December 2017' time '12:46:06.607568 pm' author 'pre' ancestors () stepChildren ())
+(name 'NTriples-Core-pre.2' message 'Categorizes methods' id '1c098a59-3e20-7d48-bccc-4a2ab5dda645' date '18 March 2020' time '4:44:02.330754 pm' author 'pre' ancestors ((name 'NTriples-Core-pre.1' message 'Initial commit' id '27cc3bc7-65ca-8041-99a7-5fcb6646c133' date '11 December 2017' time '12:46:06.607568 pm' author 'pre' ancestors () stepChildren ())) stepChildren ())
